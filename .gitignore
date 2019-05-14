@@ -124,4 +124,9 @@ dmypy.json
 
 # data directories
 raw_data/
+*.zip
+*.csv
+*.tsv
 
+# ignore the README file that comes with https://www.cs.ucsb.edu/~william/data/liar_dataset.zip file
+README
